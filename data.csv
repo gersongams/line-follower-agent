@@ -1,0 +1,102 @@
+N,Pos,Orienta,Cámara,Contacto,Regla,Acción,Pos after,Orie after
+0,"(1, 12)",S,Piso Oscuro,No pared,0,Avanzar,"(2, 12)",S
+1,"(2, 12)",S,Piso Oscuro,No pared,0,Rotar -90,"(2, 12)",E
+2,"(2, 12)",E,Piso Oscuro,No pared,1,Avanzar,"(2, 13)",E
+3,"(2, 13)",E,Piso Oscuro,No pared,1,Avanzar,"(2, 14)",E
+4,"(2, 14)",E,Piso Oscuro,No pared,1,Avanzar,"(2, 15)",E
+5,"(2, 15)",E,Piso Oscuro,No pared,1,Avanzar,"(2, 16)",E
+6,"(2, 16)",E,Piso Oscuro,No pared,2,Rotar +90,"(2, 16)",S
+7,"(2, 16)",S,Piso Oscuro,No pared,0,Avanzar,"(3, 16)",S
+8,"(3, 16)",S,Piso Oscuro,No pared,0,Rotar -90,"(3, 16)",E
+9,"(3, 16)",E,Piso Oscuro,No pared,1,Avanzar,"(3, 17)",E
+10,"(3, 17)",E,Piso Oscuro,No pared,1,Avanzar,"(3, 18)",E
+11,"(3, 18)",E,Piso Oscuro,No pared,2,Rotar +90,"(3, 18)",S
+12,"(3, 18)",S,Piso Oscuro,No pared,0,Avanzar,"(4, 18)",S
+13,"(4, 18)",S,Piso Oscuro,No pared,0,Avanzar,"(5, 18)",S
+14,"(5, 18)",S,Piso Oscuro,No pared,0,Rotar -90,"(5, 18)",E
+15,"(5, 18)",E,Piso Oscuro,No pared,0,Avanzar,"(5, 19)",E
+16,"(5, 19)",E,Piso Oscuro,No pared,1,Avanzar,"(5, 20)",E
+17,"(5, 20)",E,Piso Oscuro,No pared,2,Rotar +90,"(5, 20)",S
+18,"(5, 20)",S,Piso Oscuro,No pared,0,Avanzar,"(6, 20)",S
+19,"(6, 20)",S,Piso Oscuro,No pared,0,Avanzar,"(7, 20)",S
+20,"(7, 20)",S,Piso Oscuro,No pared,0,Rotar -90,"(7, 20)",E
+21,"(7, 20)",E,Piso Oscuro,No pared,0,Avanzar,"(7, 21)",E
+22,"(7, 21)",E,Piso Oscuro,No pared,2,Rotar +90,"(7, 21)",S
+23,"(7, 21)",S,Piso Oscuro,No pared,0,Avanzar,"(8, 21)",S
+24,"(8, 21)",S,Piso Oscuro,No pared,0,Avanzar,"(9, 21)",S
+25,"(9, 21)",S,Piso Oscuro,No pared,0,Avanzar,"(10, 21)",S
+26,"(10, 21)",S,Piso Oscuro,No pared,0,Avanzar,"(11, 21)",S
+27,"(11, 21)",S,Piso Oscuro,No pared,0,Rotar -90,"(11, 21)",E
+28,"(11, 21)",E,Piso Oscuro,No pared,0,Avanzar,"(11, 22)",E
+29,"(11, 22)",E,Piso Oscuro,No pared,2,Rotar +90,"(11, 22)",S
+30,"(11, 22)",S,Piso Oscuro,No pared,0,Avanzar,"(12, 22)",S
+31,"(12, 22)",S,Piso Oscuro,No pared,1,Avanzar,"(13, 22)",S
+32,"(13, 22)",S,Piso Oscuro,No pared,1,Avanzar,"(14, 22)",S
+33,"(14, 22)",S,Piso Oscuro,No pared,1,Avanzar,"(15, 22)",S
+34,"(15, 22)",S,Piso Oscuro,No pared,1,Avanzar,"(16, 22)",S
+35,"(16, 22)",S,Piso Oscuro,No pared,2,Rotar +90,"(16, 22)",O
+36,"(16, 22)",O,Piso Oscuro,No pared,0,Avanzar,"(16, 21)",O
+37,"(16, 21)",O,Piso Oscuro,No pared,0,Rotar -90,"(16, 21)",S
+38,"(16, 21)",S,Piso Oscuro,No pared,1,Avanzar,"(17, 21)",S
+39,"(17, 21)",S,Piso Oscuro,No pared,1,Avanzar,"(18, 21)",S
+40,"(18, 21)",S,Piso Oscuro,No pared,2,Rotar +90,"(18, 21)",O
+41,"(18, 21)",O,Piso Oscuro,No pared,0,Avanzar,"(18, 20)",O
+42,"(18, 20)",O,Piso Oscuro,No pared,0,Avanzar,"(18, 19)",O
+43,"(18, 19)",O,Piso Oscuro,No pared,0,Rotar -90,"(18, 19)",S
+44,"(18, 19)",S,Piso Oscuro,No pared,0,Avanzar,"(19, 19)",S
+45,"(19, 19)",S,Piso Oscuro,No pared,1,Avanzar,"(20, 19)",S
+46,"(20, 19)",S,Piso Oscuro,No pared,2,Rotar +90,"(20, 19)",O
+47,"(20, 19)",O,Piso Oscuro,No pared,0,Avanzar,"(20, 18)",O
+48,"(20, 18)",O,Piso Oscuro,No pared,0,Avanzar,"(20, 17)",O
+49,"(20, 17)",O,Piso Oscuro,No pared,0,Rotar -90,"(20, 17)",S
+50,"(20, 17)",S,Piso Oscuro,No pared,0,Avanzar,"(21, 17)",S
+51,"(21, 17)",S,Piso Oscuro,No pared,2,Rotar +90,"(21, 17)",O
+52,"(21, 17)",O,Piso Oscuro,No pared,0,Avanzar,"(21, 16)",O
+53,"(21, 16)",O,Piso Oscuro,No pared,0,Avanzar,"(21, 15)",O
+54,"(21, 15)",O,Piso Oscuro,No pared,0,Avanzar,"(21, 14)",O
+55,"(21, 14)",O,Piso Oscuro,No pared,0,Avanzar,"(21, 13)",O
+56,"(21, 13)",O,Piso Oscuro,No pared,0,Rotar -90,"(21, 13)",S
+57,"(21, 13)",S,Piso Oscuro,No pared,0,Avanzar,"(22, 13)",S
+58,"(22, 13)",S,Piso Oscuro,No pared,2,Rotar +90,"(22, 13)",O
+59,"(22, 13)",O,Piso Oscuro,No pared,0,Avanzar,"(22, 12)",O
+60,"(22, 12)",O,Piso Oscuro,No pared,1,Avanzar,"(22, 11)",O
+61,"(22, 11)",O,Piso Oscuro,No pared,1,Avanzar,"(22, 10)",O
+62,"(22, 10)",O,Piso Oscuro,No pared,1,Avanzar,"(22, 9)",O
+63,"(22, 9)",O,Piso Oscuro,No pared,1,Avanzar,"(22, 8)",O
+64,"(22, 8)",O,Piso Oscuro,No pared,2,Rotar +90,"(22, 8)",N
+65,"(22, 8)",N,Piso Oscuro,No pared,0,Avanzar,"(21, 8)",N
+66,"(21, 8)",N,Piso Oscuro,No pared,0,Rotar -90,"(21, 8)",O
+67,"(21, 8)",O,Piso Oscuro,No pared,1,Avanzar,"(21, 7)",O
+68,"(21, 7)",O,Piso Oscuro,No pared,1,Avanzar,"(21, 6)",O
+69,"(21, 6)",O,Piso Oscuro,No pared,2,Rotar +90,"(21, 6)",N
+70,"(21, 6)",N,Piso Oscuro,No pared,0,Avanzar,"(20, 6)",N
+71,"(20, 6)",N,Piso Oscuro,No pared,0,Avanzar,"(19, 6)",N
+72,"(19, 6)",N,Piso Oscuro,No pared,0,Rotar -90,"(19, 6)",O
+73,"(19, 6)",O,Piso Oscuro,No pared,0,Avanzar,"(19, 5)",O
+74,"(19, 5)",O,Piso Oscuro,No pared,1,Avanzar,"(19, 4)",O
+75,"(19, 4)",O,Piso Oscuro,No pared,2,Rotar +90,"(19, 4)",N
+76,"(19, 4)",N,Piso Oscuro,No pared,0,Avanzar,"(18, 4)",N
+77,"(18, 4)",N,Piso Oscuro,No pared,0,Avanzar,"(17, 4)",N
+78,"(17, 4)",N,Piso Oscuro,No pared,0,Rotar -90,"(17, 4)",O
+79,"(17, 4)",O,Piso Oscuro,No pared,0,Avanzar,"(17, 3)",O
+80,"(17, 3)",O,Piso Oscuro,No pared,2,Rotar +90,"(17, 3)",N
+81,"(17, 3)",N,Piso Oscuro,No pared,0,Avanzar,"(16, 3)",N
+82,"(16, 3)",N,Piso Oscuro,No pared,0,Avanzar,"(15, 3)",N
+83,"(15, 3)",N,Piso Oscuro,No pared,0,Avanzar,"(14, 3)",N
+84,"(14, 3)",N,Piso Oscuro,No pared,0,Avanzar,"(13, 3)",N
+85,"(13, 3)",N,Piso Oscuro,No pared,No hay,Rotar +90,"(13, 3)",E
+86,"(13, 3)",E,Piso Oscuro,No pared,No hay,Rotar +90,"(13, 3)",S
+87,"(13, 3)",S,Piso Oscuro,No pared,1,Avanzar,"(14, 3)",S
+88,"(14, 3)",S,Piso Oscuro,No pared,1,Avanzar,"(15, 3)",S
+89,"(15, 3)",S,Piso Oscuro,No pared,1,Avanzar,"(16, 3)",S
+90,"(16, 3)",S,Piso Oscuro,No pared,0,Avanzar,"(17, 3)",S
+91,"(17, 3)",S,Piso Oscuro,No pared,0,Avanzar,"(18, 3)",S
+92,"(18, 3)",S,Piso Oscuro,No pared,0,Rotar -90,"(18, 3)",E
+93,"(18, 3)",E,Piso Oscuro,No pared,0,Avanzar,"(18, 4)",E
+94,"(18, 4)",E,Piso Oscuro,No pared,1,Avanzar,"(18, 5)",E
+95,"(18, 5)",E,Piso Oscuro,No pared,2,Rotar +90,"(18, 5)",S
+96,"(18, 5)",S,Piso Oscuro,No pared,0,Avanzar,"(19, 5)",S
+97,"(19, 5)",S,Piso Oscuro,No pared,0,Avanzar,"(20, 5)",S
+98,"(20, 5)",S,Piso Oscuro,No pared,0,Rotar -90,"(20, 5)",E
+99,"(20, 5)",E,Piso Oscuro,No pared,0,Avanzar,"(20, 6)",E
+100,"(20, 6)",E,Piso Oscuro,No pared,1,Avanzar,"(20, 7)",E
